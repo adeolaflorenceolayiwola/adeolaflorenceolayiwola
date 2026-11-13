@@ -2,7 +2,7 @@
 
 ### Data Analyst | Business Intelligence Analyst | Financial Analyst
 
-I am an aspiring Data Analyst with a background in Educational Management and a strong interest in Business Intelligence and Financial Analysis. I enjoy working with data to identify trends, uncover business insights and support informed decision-making. I am building my analytical skills through practical projects, working with Microsoft Excel and developing my knowledge of SQL, Python and data visualisation tools. I am particularly interested in transforming raw data into meaningful insights that help businesses improve performance and make better strategic decisions.
+I am an aspiring Data Analyst with a background in Educational Management and a strong interest in Business Intelligence and Financial Analysis. I enjoy working with data to identify trends, uncover business insights and support informed decision-making. I am building my analytical skills through practical projects, working with Microsoft Excel and developing my knowledge of SQL, PowerBI, Python, AI assisted tools and data visualisation tools. I am particularly interested in transforming raw data into meaningful insights that help businesses improve performance and make better strategic decisions.
 
 ---
 
@@ -11,7 +11,7 @@ I am an aspiring Data Analyst with a background in Educational Management and a 
 ### Data Analysis & Visualisation
 - Microsoft Excel
 - PivotTables and PivotCharts
-- Data Cleaning and Preparation
+- Data inspection and Preparation
 - Data Visualisation
 - Dashboard Development
 - Power Query
@@ -105,4 +105,4 @@ A practical sales data analysis project examining Adidas sales performance acros
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/adeola-florence-olayiwola)
 - **GitHub:** [My GitHub Profile](https://github.com/adeolaflorenceolayiwola)
-- **Email:** [olayiwolaadeola67@gmail.com]
+- **Email:** [olayiwolaadeola67@gmail.com](mailto:olayiwolaadeola67@gmail.com)
